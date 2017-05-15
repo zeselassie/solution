@@ -1,0 +1,56 @@
+#header-nav {
+  background-color: #bbb;
+  border-radius: 0;
+  border: 0;
+  padding-bottom: 8px;
+}
+
+.navbar-brand h1 {
+  margin: 0;
+}
+
+#nav-button {
+  margin-top: 15px;
+}
+
+#navbar-collapse-menu {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+hr {
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+
+
+.navbar-nav {
+  margin-bottom: 0px;
+}
+
+.menu{
+  background-color: #ddd;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.menu a.menu-title {
+  display: block;
+  font-size: 1.6em;
+  text-decoration: none;
+  color: #000;
+  padding-bottom: 10px;
+  padding-top: 8px;
+}
+
+@media (max-width: 768px) {
+
+    #navbar-collapse-menu {
+    background-color: #ccc;
+  }
+
+    #header-nav {
+    padding-bottom: 0px;
+  }
+}
+
