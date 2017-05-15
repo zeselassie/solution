@@ -36,7 +36,7 @@ hr {
   margin-bottom: 0px;
 }
 
-.menu{
+.menu-item{
   background-color: #ddd;
 /*  padding-right: 15px;
   padding-left: 15px;
@@ -44,7 +44,7 @@ hr {
   margin-bottom: 20px;
 }
 
-.menu a.menu-title {
+.menu-item a.menu-title {
   display: block;
   font-size: 1.6em;
   text-decoration: none;
