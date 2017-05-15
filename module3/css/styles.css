@@ -38,8 +38,10 @@ hr {
 
 .menu{
   background-color: #ddd;
-  padding-right: 15px;
+/*  padding-right: 15px;
   padding-left: 15px;
+*/  padding: 15px;
+  margin-bottom: 20px;
 }
 
 .menu a.menu-title {
